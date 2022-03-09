@@ -1,6 +1,6 @@
-# applemango-runnerbe.github.io
+# [runnerbe.xyz](http://runnerbe.xyz/)
 
-RunnerBe github page
+RunnerBe main page
 
 ---
 
